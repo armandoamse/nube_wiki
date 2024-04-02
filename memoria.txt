@@ -1,0 +1,3 @@
+Iniciando en programación, me enfrenté a desafíos configurando Git y usando Anaconda Prompt, lo cual fue abrumador.
+He utilizado comandos que en mi vida creia que veria.
+(Ej: todo lo relacionado con git en local)
